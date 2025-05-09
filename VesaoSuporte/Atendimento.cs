@@ -17,9 +17,9 @@ namespace VesaoSuporte
             InitializeComponent();
         }
 
-        private void btnEntrar(object sender, EventArgs e)
+        private void btnEntra(object sender, EventArgs e)
         {
-
+            MessageBox.Show("AAAAAA BEM VINDO");
         }
     }
 }
